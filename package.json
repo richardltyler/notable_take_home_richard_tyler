@@ -1,0 +1,23 @@
+{
+  "author": "Richard Tyler",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.6.2",
+    "mongoose": "^8.4.0"
+  },
+  "description": "Notable Health Take Home Assessment for Richard Tyler",
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "license": "MIT",
+  "main": "server.js",
+  "name": "notable_take_home_richard_tyler",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "1.0.0"
+}
